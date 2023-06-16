@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">Library Used</a> •
+  <a href="#library-used">Library Used</a> •
 </p>
 
 ## Key Features
